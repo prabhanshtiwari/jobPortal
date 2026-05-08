@@ -153,8 +153,8 @@ npm start
 ## 🚀 Application URLs
 
 ```bash
-Frontend: http://localhost:5137
-Backend:  http://localhost:5000
+Frontend: https://jobportal-1-qxyu.onrender.com
+Backend:  https://jobportal-bu10.onrender.com
 ```
 
 ---
